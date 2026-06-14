@@ -10,11 +10,11 @@ Brain Dynamics Reveals a Major Redundant Role of the Default Mode Network
 //doi.org/10.3390/e20100742
 
 
-##2.- Gatica Marilyn et al. «High-order interdependencies in the aging brain». En:
+#2.- Gatica Marilyn et al. «High-order interdependencies in the aging brain». En:
 Brain connectivyt, vol. 11 No.9 (10 November 2021). doi: 10 . 1089 / brain .
 2020.0982.
 
 
-##3.- Gatica Marilyn et al. «High-order functional interactions in ageing explained via
+#3.- Gatica Marilyn et al. «High-order functional interactions in ageing explained via
 alterations in the connectome in a whole-brain model». En: Plos computational
 biology (2021, 15 september). doi: 10.1101/2021.09.15.460435.
