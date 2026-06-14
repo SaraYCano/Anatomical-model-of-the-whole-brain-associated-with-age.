@@ -1,0 +1,2 @@
+# Anatomical-model-of-the-whole-brain-associated-with-age.
+Brain aging is studied using an anatomical-functional model combining BOLD signals and DTI-based structural connectivity. The model estimates directed connectivity and entropy production (Φ). Data from 161 healthy subjects (10–80 years) are analyzed to characterize age-related changes and identify aging biomarkers using machine learning methods.
