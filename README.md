@@ -4,7 +4,7 @@ Brain aging is studied using an anatomical-functional model combining BOLD signa
 
 The data were used by other authors in the following articles.
 
-##1.- Camino Pontes Borja et al. «Interaction Information Along Lifespan of the Resting
+#1.- Camino Pontes Borja et al. «Interaction Information Along Lifespan of the Resting
 Brain Dynamics Reveals a Major Redundant Role of the Default Mode Network
 ». En: Entropy (Basel). 2018;20(10):742 (28 september 2018). doi: https:
 //doi.org/10.3390/e20100742
